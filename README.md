@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">🌱 I'm Tech King</h2>
+<h3 align="left">🔭 I'm Tech King</h3>
 <ul>
   <li> First To Worry, Last To Enjoy </li>
   <li> Frontend Developer </li>
