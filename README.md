@@ -1,5 +1,3 @@
-Hi there 👋, I'm Nay Myo Aung
-
 <!--
 **techking11/techking11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mg Nay Myo Aung</h1>
+<h2 align="left">🌱 I'm Tech King</h2>
+<ul>
+  <li> First To Worry, Last To Enjoy </li>
+  <li> Frontend Developer </li>
+  <li> Work From Home </li>
 
 <h3 align="left">🌱 Currently Learning</h3>
 <ul>
