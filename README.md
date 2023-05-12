@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mg Nay Myo Aung</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-<h3 align="left">Frontend Skills</h3>
+<h3 align="left">🌱 Currently Learning</h3>
+<ul>
+  <li> NodeJS </li>
+  <li> Express </li>
+  <li> MongoDB </li>
+ </ul>
+ 
+<h3 align="left">🌱 Frontend Skills</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -39,7 +45,7 @@ Here are some ideas to get you started:
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
   
- <h3 align="left">Design Skills</h3>
+ <h3 align="left">🌱 Design Skills</h3>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -50,13 +56,13 @@ Here are some ideas to get you started:
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
   
-  <h3 align="left">Backend Skills</h3>
+  <h3 align="left">🌱 Backend Skills</h3>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
   <img src="https://restfulapi.net/wp-content/uploads/rest.png" alt="rest api" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
