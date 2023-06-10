@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="left">🔭 I'm Nay Myo Aung</h3>
 <ul>
   <li> First To Worry, Last To Enjoy </li>
-  <li> Frontend Developer </li>
+  <li> PHP Developer </li>
   <li> Work From Home </li>
 
 <h3 align="left">🌱 Currently Learning</h3>
