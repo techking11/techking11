@@ -1,17 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<3 align="center">NAY MYO AUNG</3>	
+<img src="https://github.com/techking11/techking11/edit/main/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 
-I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
-
-Also, feel free to check what I've been rambling about on <a href="https://fantinel.dev" target="_blank">my blog</a>.
-
+I am a software engineer from Myanmar. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). 
 <ul>
-<li>Front-End Web Developer</li>
-<li>Open Sourcerer</li>
-<li>Bullet List Enthusiast</li>
+<li>Full-Stack Web Developer</li>
+<li>Email: nma1132.encryption@gmail.com</li>
+<li>Phone: +66-623973784</li>
 </ul>
