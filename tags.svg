@@ -1,0 +1,50 @@
+<svg fill="none" viewBox="0 0 400 120" width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+          margin-bottom: 5px;
+        }
+        .tag {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 5px;
+          padding: 5px 15px;
+          border-radius: 10px;
+          font-weight: 500;
+          font-size: 0.85rem;
+          width: fit-content;
+          white-space: nowrap;
+          font-family:sans-serif;
+          background-color: #e3ffff;
+          color: #0ca4a5;
+          margin: 0.125em;
+        }
+      </style>
+
+      <div class="tags">
+        <div class="tag">Vue</div>
+        <div class="tag">React</div>
+        <div class="tag">Svelte</div>
+        <div class="tag">Angular</div>
+      </div>
+      <div class="tags">
+        <div class="tag">SASS</div>
+        <div class="tag">TypeScript</div>
+        <div class="tag">Atomic Design</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Ionic</div>
+        <div class="tag">Electron</div>
+        <div class="tag">PWAs</div>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
