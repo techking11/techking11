@@ -1,5 +1,5 @@
 <3 align="center">NAY MYO AUNG</3>	
-<img src="https://github.com/techking11/techking11/edit/main/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
