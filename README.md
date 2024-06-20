@@ -8,5 +8,4 @@ I am a software engineer from Myanmar. My deal is building fast, beautiful and h
 <ul>
 <li>Full-Stack Web Development</li>
 <li>Email: nma1132.encryption@gmail.com</li>
-<li>Phone: +66-623973784</li>
 </ul>
