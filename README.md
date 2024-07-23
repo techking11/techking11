@@ -36,15 +36,15 @@ Strategizing and aiming beyond the horizon has always excited me. Though it take
   
 </p>
 
-<a href="https://github.com/xAIdrian#gh-light-mode-only">
+<a href="https://github.com/techking11#gh-light-mode-only">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techking11&theme=github" width="100%">
 </a>
 
-<a href="https://github.com/xAIdrian#gh-dark-mode-only">
+<a href="https://github.com/techking11#gh-dark-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techking11&theme=github_dark" width="100%">
 </a>
 
-<a href="https://github.com/xAIdrian?tab=repositories#gh-light-mode-only">
+<a href="https://github.com/techking11?tab=repositories#gh-light-mode-only">
 
 | Player Score                                                                                                                                                          | Languages                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,7 +52,7 @@ Strategizing and aiming beyond the horizon has always excited me. Though it take
 
 </a>
 
-<a href="https://github.com/xAIdrian?tab=repositories#gh-dark-mode-only">
+<a href="https://github.com/techking11?tab=repositories#gh-dark-mode-only">
   
 | Player Score                                        | Languages                                                    |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
@@ -61,7 +61,7 @@ Strategizing and aiming beyond the horizon has always excited me. Though it take
   
 </a>
 
-<a href="https://github.com/xAIdrian#gh-light-mode-only">
+<a href="https://github.com/techking11#gh-light-mode-only">
 
 | Top Metrics                                                                                                                       | My Stats                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -69,13 +69,15 @@ Strategizing and aiming beyond the horizon has always excited me. Though it take
 
 </a>
 
-<a href="https://github.com/xAIdrian#gh-dark-mode-only">
+<a href="https://github.com/techking11#gh-dark-mode-only">
   
 | Top Metrics                                        | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=techking11&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=techking11&theme=github_dark" width="800"> |
 
-<a href="https://git.io/streak-stats" style="width: 100%"><img src="https://github-readme-streak-stats.herokuapp.com?user=techking11" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats#gh-light-mode-only" style="width: 100%"><img src="https://github-readme-streak-stats.herokuapp.com?user=techking11" alt="GitHub Streak" /></a>
+
+<a href="https://git.io/streak-stats#gh-dark-mode-only" style="width: 100%"><img src="https://github-readme-streak-stats.herokuapp.com?user=techking11&theme=dark" alt="GitHub Streak" /></a>
 
 <div align="right">
     <a href="mailto:naymyoaung452002@gmail.com" align="right">
