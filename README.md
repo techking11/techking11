@@ -1,4 +1,4 @@
-My name is **Nay Myo Aung**. I am a **Software Engineer** focusing on **Full Stack Development** after coming from a background in **Window Application Development and Frontend Development**. I am a passionate and skilled software engineer with a strong background in developing robust and efficient web applications.
+My name is **Nay Myo Aung**. I am a **Software Developer** focusing on **Full Stack Development** after coming from a background in **Window Application Development and Frontend Development**. I am a passionate and skilled software engineer with a strong background in developing robust and efficient web applications.
 
 Strategizing and aiming beyond the horizon has always excited me. However, it takes more than faith in an idea to achieve big goals. It takes an incredible group of people who believe in the idea and have the talent to execute it. I realize that no matter how good I am, I cannot accomplish my goals alone.
 
