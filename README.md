@@ -34,11 +34,9 @@ My name is **Nay Myo Aung**. I am a **Full Stack Developer** focusing on **Full 
   
 </p>
 
-<p align="center">
-
-<a href="https://github.com/wibus-wee#gh-dark-mode-only">
-    <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=techking11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
-</a>
+| Top                                       | Streak                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=techking11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=techking11" alt="GitHub Streak" /> |
 
 <a href="https://github.com/techking11?tab=repositories#gh-light-mode-only">
 
@@ -47,7 +45,6 @@ My name is **Nay Myo Aung**. I am a **Full Stack Developer** focusing on **Full 
 | <img width="800" src="https://github-readme-stats.vercel.app/api?username=techking11&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techking11&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&order=2" width="800" alt="languages graph"  /> |
   
 </a>
-
 <a href="https://github.com/techking11?tab=repositories#gh-dark-mode-only">
   
 | Player Score                                        | Languages                                                    |
@@ -72,7 +69,7 @@ My name is **Nay Myo Aung**. I am a **Full Stack Developer** focusing on **Full 
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=techking11&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=techking11&theme=github_dark" width="800"> |
 
-<a href="https://git.io/streak-stats" style="width: 100%"><img src="https://github-readme-streak-stats.herokuapp.com?user=techking11" alt="GitHub Streak" /></a>
+</a>
   
 <div align="right">
     <p> <img src="https://komarev.com/ghpvc/?username=techking11&label=Profile%20views&color=0e75b6&style=flat" alt="techking11" /> </p>
