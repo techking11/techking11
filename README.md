@@ -34,9 +34,21 @@ My name is **Nay Myo Aung**. I am a **Full Stack Developer** focusing on **Full 
   
 </p>
 
+<a href="https://github.com/techking11#gh-light-mode-only">
+
 | Top                                       | Streak                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=techking11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=techking11" alt="GitHub Streak" /> |
+
+</a>
+
+<a href="https://github.com/techking11#gh-dark-mode-only">
+
+| Top                                       | Streak                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=techking11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=techking11&theme=dark" alt="GitHub Streak" /> |
+
+</a>
 
 <a href="https://github.com/techking11?tab=repositories#gh-light-mode-only">
 
