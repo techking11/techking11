@@ -1,4 +1,8 @@
-My name is **Nay Myo Aung**. I am a **Full Stack Developer** focusing on **Full Stack Development** after coming from a background in **Frontend Development and Desktop Development**. I am a passionate and skilled Full Stack Developer with a strong background in developing robust and efficient web applications.
+# 👋 Hi, I'm Nay Myo Aung!  
+
+I am a **Full Stack Developer** with a passion for creating efficient and user-friendly web applications. With a background in **Frontend** and **Desktop Development**, I am dedicated to building scalable and robust solutions.  
+
+Feel free to explore my work and connect with me!
 
 **Tech Stack**
 
