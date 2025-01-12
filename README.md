@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Nay Myo Aung
-
 I am a **Full Stack Developer** with a passion for creating efficient and user-friendly web applications. With a background in **Frontend** and **Desktop Development**, I am dedicated to building scalable and robust solutions.
 
 I am a problem solver, team player, and self-starter who values quality, innovation, and continuous improvement. I look forward to connecting and working on challenging opportunities.
@@ -74,5 +72,8 @@ Feel free to explore my work and connect with me!
 </a>
   
 <div align="right">
+    <a href="mailto:naymyoaung4522@gmail.com" align="right">
+    <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
+    </a>&nbsp;
     <p> <img src="https://komarev.com/ghpvc/?username=techking11&label=Profile%20views&color=0e75b6&style=flat" alt="techking11" /> </p>
 </div>
