@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Nay Myo Aung!  
+# 👋 Hi, I'm Nay Myo Aung
 
-I am a **Full Stack Developer** with a passion for creating efficient and user-friendly web applications. With a background in **Frontend** and **Desktop Development**, I am dedicated to building scalable and robust solutions.  
+I am a **Full Stack Developer** with a passion for creating efficient and user-friendly web applications. With a background in **Frontend** and **Desktop Development**, I am dedicated to building scalable and robust solutions.
+
+I am a problem solver, team player, and self-starter who values quality, innovation, and continuous improvement. I look forward to connecting and working on challenging opportunities.
 
 Feel free to explore my work and connect with me!
 
@@ -37,22 +39,6 @@ Feel free to explore my work and connect with me!
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   
 </p>
-
-<a href="https://github.com/techking11#gh-light-mode-only">
-
-| Top                                       | Streak                                                     |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=techking11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=techking11" alt="GitHub Streak" /> |
-
-</a>
-
-<a href="https://github.com/techking11#gh-dark-mode-only">
-
-| Top                                       | Streak                                                     |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=techking11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=techking11&theme=dark" alt="GitHub Streak" /> |
-
-</a>
 
 <a href="https://github.com/techking11?tab=repositories#gh-light-mode-only">
 
