@@ -1,6 +1,6 @@
-I am a **Full Stack Developer** with a passion for creating efficient and user-friendly web applications. With a background in **Frontend** and **Desktop Development**, I am dedicated to building scalable and robust solutions.
+Hi, I’m Justin—a dedicated software developer with a passion for crafting impactful digital solutions. I thrive on solving complex problems and turning ideas into reality, whether it’s developing seamless web applications or enhancing user experiences.
 
-I am a problem solver, team player, and self-starter who values quality, innovation, and continuous improvement. I look forward to connecting and working on challenging opportunities.
+With a background in full-stack development and a keen eye for design, I enjoy collaborating with teams to build products that are both functional and user-friendly. I believe in continuous learning, staying curious, and keeping up with evolving technologies to deliver my best work.
 
 Feel free to explore my work and connect with me!
 
